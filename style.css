@@ -1,0 +1,25 @@
+h2{
+    background-color: skyblue;
+    color: cyan;
+}
+body{
+    background-color: pink;
+}
+h1{
+    background-color: lightblue;
+    color: brown;
+}
+p{
+    background-color: grey;
+    color: black;
+}
+Nav{
+  text-transform: capitalize;
+  font-family: serif;
+  }
+Nav:hover{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    background-color: red;
+}
