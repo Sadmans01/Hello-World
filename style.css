@@ -10,8 +10,8 @@ h1{
     color: brown;
 }
 p{
-    background-color: grey;
-    color: black;
+    background-color: lightblue;
+    color: brown;
 }
 Nav{
   text-transform: capitalize;
@@ -25,11 +25,21 @@ Nav:hover{
 }
 
 .services i{
-    font-size: 50px;
-    padding: 70px 20px;
+    font-size: 20px;
+    padding: 2px 30px;
 }
 
 .services span{
     width: 200px;
     display: inline-block;
 }
+
+.container img {
+    width: 120px;
+    height: 120px;
+}
+
+.container container-form {
+    width: 10px;
+}
+
